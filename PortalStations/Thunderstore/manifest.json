@@ -1,9 +1,9 @@
 {
-	"name": "PortalStations",
-	"version_number": "1.4.5",
-	"website_url": "https://github.com/RustyMods/PortalStations",
-	"description": "Adds Portal Stations and a Personal Teleportation Device which allow users to fast travel between locations.",
-	"dependencies": [
-		"denikson-BepInExPack_Valheim-5.4.2333"
-	]
+  "name": "PortalStations",
+  "version_number": "1.4.7",
+  "website_url": "https://github.com/AWL-Gaming/PortalStations",
+  "description": "AWL-maintained Valheim 1.0 compatibility fork of RustyMods/Lunatix42 Portal Stations with portable teleportation and server sync.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2350"
+  ]
 }
